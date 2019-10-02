@@ -1,7 +1,7 @@
 src/squads.py
 *.csv
 
-*.egg-info/*
+*.egg-info/
 *.egg
 
 # Byte-compiled / optimized / DLL files
