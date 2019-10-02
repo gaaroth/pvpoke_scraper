@@ -1,7 +1,0 @@
-README.md
-setup.py
-src/pvpoke_scraper.egg-info/PKG-INFO
-src/pvpoke_scraper.egg-info/SOURCES.txt
-src/pvpoke_scraper.egg-info/dependency_links.txt
-src/pvpoke_scraper.egg-info/not-zip-safe
-src/pvpoke_scraper.egg-info/top_level.txt
